@@ -1,1 +1,1 @@
-javascript:(function(){var script=document.createElement('script');script.src='https://github.com/amolsarva/linkedin/blob/b383f4a21ebd76bd1ab59976b71ee771894f2d24/linkedin-unfollow.js';document.body.appendChild(script);})();
+javascript:(function(){var script=document.createElement('script');script.src='https://amolsarva.github.io/linkedin/linkedin-unfollow.js';document.body.appendChild(script);})();
